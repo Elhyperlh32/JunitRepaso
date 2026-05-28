@@ -1,32 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a0e183d-6947-4121-a287-46faf77ad0d5" name="Changes" comment="Repaso JUnit 5">
-      <change afterPath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/TimeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TareasRepasoJUnit/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Time.java" afterDir="false" />
+    <list default="true" id="0a0e183d-6947-4121-a287-46faf77ad0d5" name="Changes" comment="Tarea repaso 1">
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/NumerosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/VectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vocales2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vocales2Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="JUnit1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,27 +58,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
-    "JUnit.TimeTest.executor": "Run",
-    "JUnit.TimeTest.test1.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "JUnit5",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "JUnit2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dylaguech/Documents/GitHub/JunitRepaso/TareasRepasoJUnit/src"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="es.iesmz.tests" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylaguech\Documents\GitHub\JunitRepaso\TareasRepasoJUnit\src" />
     </key>
   </component>
   <component name="TaskManager">
@@ -85,19 +82,27 @@
       <option name="presentableId" value="Default" />
       <updated>1779879128056</updated>
     </task>
-    <task id="LOCAL-00001" summary="Repaso JUnit 5">
+    <task id="LOCAL-00001" summary="Tarea repaso 1">
       <option name="closed" value="true" />
-      <created>1779964086137</created>
+      <created>1779960615330</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1779964086137</updated>
+      <updated>1779960615330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Tarea repaso 1">
+      <option name="closed" value="true" />
+      <created>1779960688853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779960688853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Repaso JUnit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repaso JUnit 5" />
+    <MESSAGE value="Tarea repaso 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea repaso 1" />
   </component>
 </project>
