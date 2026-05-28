@@ -1,30 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a0e183d-6947-4121-a287-46faf77ad0d5" name="Changes" comment="" />
+    <list default="true" id="0a0e183d-6947-4121-a287-46faf77ad0d5" name="Changes" comment="Tarea repaso 1">
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/NumerosTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/VectorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vocales2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TareasRepasoJUnit/src/es/iesmz/tests/Vocales2Test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="JUnit1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Elhyperlh32"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elhyperlh32&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Elhyperlh32/JunitRepaso.git",
-    "accountId": "a5ba5580-ea82-405a-b962-6af0fc3dccf1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Elhyperlh32/JunitRepaso.git&quot;,
+    &quot;accountId&quot;: &quot;a5ba5580-ea82-405a-b962-6af0fc3dccf1&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3EIvvQtGsMejMncJFkSlOQNsDGZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,10 +64,16 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "JUnit2",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dylaguech/Documents/GitHub/JunitRepaso/TareasRepasoJUnit/src"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dylaguech\Documents\GitHub\JunitRepaso\TareasRepasoJUnit\src" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0a0e183d-6947-4121-a287-46faf77ad0d5" name="Changes" comment="" />
@@ -51,6 +82,27 @@
       <option name="presentableId" value="Default" />
       <updated>1779879128056</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tarea repaso 1">
+      <option name="closed" value="true" />
+      <created>1779960615330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779960615330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea repaso 1">
+      <option name="closed" value="true" />
+      <created>1779960688853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779960688853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tarea repaso 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea repaso 1" />
   </component>
 </project>
